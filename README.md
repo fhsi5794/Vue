@@ -20,6 +20,10 @@ $ npm run serve
 ---
 
 ## Vue Router
+### install
+```
+$ npm install vue-router
+```
 ### HTML
 ```html
 <!-- use router-link component for navigation. -->
